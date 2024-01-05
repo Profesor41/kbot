@@ -1,6 +1,6 @@
 name: KBOT-CICD
 
-on: push
+on: push 
 
 env:
   TARGETARCH: amd64
